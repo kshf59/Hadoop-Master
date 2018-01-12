@@ -1,0 +1,5 @@
+2017-11-11 22:16:20,249 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.132:50010
+2017-11-11 22:16:20,250 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.133:50010
+2017-11-11 22:16:20,250 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.134:50010
+2017-11-11 22:16:20,250 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 over utilized nodes:
+2017-11-11 22:16:20,250 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 under utilized nodes: 

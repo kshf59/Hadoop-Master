@@ -1,0 +1,90 @@
+2017-11-12 11:26:11,740 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: namenodes  = [hdfs://hadoop-master:8020]
+2017-11-12 11:26:11,743 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: parameters = Balancer.BalancerParameters [BalancingPolicy.Node, threshold = 10.0, max idle iteration = 5, #excluded nodes = 0, #included nodes = 0, #source nodes = 0, #blockpools = 0, run during upgrade = false]
+2017-11-12 11:26:11,743 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: included nodes = []
+2017-11-12 11:26:11,743 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: excluded nodes = []
+2017-11-12 11:26:11,743 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: source nodes = []
+2017-11-12 11:26:13,147 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.movedWinWidth = 5400000 (default=5400000)
+2017-11-12 11:26:13,147 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.moverThreads = 1000 (default=1000)
+2017-11-12 11:26:13,147 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.dispatcherThreads = 200 (default=200)
+2017-11-12 11:26:13,147 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.datanode.balance.max.concurrent.moves = 50 (default=50)
+2017-11-12 11:26:13,147 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.size = 2147483648 (default=2147483648)
+2017-11-12 11:26:13,147 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.min-block-size = 10485760 (default=10485760)
+2017-11-12 11:26:13,151 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.max-size-to-move = 10737418240 (default=10737418240)
+2017-11-12 11:26:13,151 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.blocksize = 134217728 (default=134217728)
+2017-11-12 11:26:13,157 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.132:50010
+2017-11-12 11:26:13,157 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.133:50010
+2017-11-12 11:26:13,157 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.134:50010
+2017-11-12 11:26:13,158 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 over-utilized: []
+2017-11-12 11:26:13,158 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 underutilized: []
+2017-11-12 11:26:19,959 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: namenodes  = [hdfs://hadoop-master:8020]
+2017-11-12 11:26:19,963 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: parameters = Balancer.BalancerParameters [BalancingPolicy.Node, threshold = 10.0, max idle iteration = 5, #excluded nodes = 0, #included nodes = 0, #source nodes = 0, #blockpools = 0, run during upgrade = false]
+2017-11-12 11:26:19,963 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: included nodes = []
+2017-11-12 11:26:19,963 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: excluded nodes = []
+2017-11-12 11:26:19,963 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: source nodes = []
+2017-11-12 11:26:20,790 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.movedWinWidth = 5400000 (default=5400000)
+2017-11-12 11:26:20,790 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.moverThreads = 1000 (default=1000)
+2017-11-12 11:26:20,790 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.dispatcherThreads = 200 (default=200)
+2017-11-12 11:26:20,790 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.datanode.balance.max.concurrent.moves = 50 (default=50)
+2017-11-12 11:26:20,790 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.size = 2147483648 (default=2147483648)
+2017-11-12 11:26:20,790 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.min-block-size = 10485760 (default=10485760)
+2017-11-12 11:26:20,794 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.max-size-to-move = 10737418240 (default=10737418240)
+2017-11-12 11:26:20,794 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.blocksize = 134217728 (default=134217728)
+2017-11-12 11:26:20,813 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.132:50010
+2017-11-12 11:26:20,813 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.133:50010
+2017-11-12 11:26:20,813 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.134:50010
+2017-11-12 11:26:20,815 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 over-utilized: []
+2017-11-12 11:26:20,815 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 underutilized: []
+2017-11-12 11:26:25,793 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: namenodes  = [hdfs://hadoop-master:8020]
+2017-11-12 11:26:25,795 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: parameters = Balancer.BalancerParameters [BalancingPolicy.Node, threshold = 10.0, max idle iteration = 5, #excluded nodes = 0, #included nodes = 0, #source nodes = 0, #blockpools = 0, run during upgrade = false]
+2017-11-12 11:26:25,796 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: included nodes = []
+2017-11-12 11:26:25,796 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: excluded nodes = []
+2017-11-12 11:26:25,796 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: source nodes = []
+2017-11-12 11:26:26,545 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.movedWinWidth = 5400000 (default=5400000)
+2017-11-12 11:26:26,546 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.moverThreads = 1000 (default=1000)
+2017-11-12 11:26:26,546 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.dispatcherThreads = 200 (default=200)
+2017-11-12 11:26:26,546 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.datanode.balance.max.concurrent.moves = 50 (default=50)
+2017-11-12 11:26:26,546 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.size = 2147483648 (default=2147483648)
+2017-11-12 11:26:26,546 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.min-block-size = 10485760 (default=10485760)
+2017-11-12 11:26:26,550 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.max-size-to-move = 10737418240 (default=10737418240)
+2017-11-12 11:26:26,550 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.blocksize = 134217728 (default=134217728)
+2017-11-12 11:26:26,557 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.133:50010
+2017-11-12 11:26:26,557 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.132:50010
+2017-11-12 11:26:26,557 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.134:50010
+2017-11-12 11:26:26,558 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 over-utilized: []
+2017-11-12 11:26:26,558 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 underutilized: []
+2017-11-12 11:26:33,101 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: namenodes  = [hdfs://hadoop-master:8020]
+2017-11-12 11:26:33,104 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: parameters = Balancer.BalancerParameters [BalancingPolicy.Node, threshold = 10.0, max idle iteration = 5, #excluded nodes = 0, #included nodes = 0, #source nodes = 0, #blockpools = 0, run during upgrade = false]
+2017-11-12 11:26:33,104 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: included nodes = []
+2017-11-12 11:26:33,104 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: excluded nodes = []
+2017-11-12 11:26:33,104 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: source nodes = []
+2017-11-12 11:26:33,857 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.movedWinWidth = 5400000 (default=5400000)
+2017-11-12 11:26:33,857 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.moverThreads = 1000 (default=1000)
+2017-11-12 11:26:33,857 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.dispatcherThreads = 200 (default=200)
+2017-11-12 11:26:33,857 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.datanode.balance.max.concurrent.moves = 50 (default=50)
+2017-11-12 11:26:33,857 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.size = 2147483648 (default=2147483648)
+2017-11-12 11:26:33,857 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.min-block-size = 10485760 (default=10485760)
+2017-11-12 11:26:33,864 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.max-size-to-move = 10737418240 (default=10737418240)
+2017-11-12 11:26:33,864 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.blocksize = 134217728 (default=134217728)
+2017-11-12 11:26:33,873 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.132:50010
+2017-11-12 11:26:33,873 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.133:50010
+2017-11-12 11:26:33,873 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.134:50010
+2017-11-12 11:26:33,874 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 over-utilized: []
+2017-11-12 11:26:33,875 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 underutilized: []
+2017-11-12 11:27:39,791 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: namenodes  = [hdfs://hadoop-master:8020]
+2017-11-12 11:27:39,794 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: parameters = Balancer.BalancerParameters [BalancingPolicy.Node, threshold = 10.0, max idle iteration = 5, #excluded nodes = 0, #included nodes = 0, #source nodes = 0, #blockpools = 0, run during upgrade = false]
+2017-11-12 11:27:39,794 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: included nodes = []
+2017-11-12 11:27:39,794 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: excluded nodes = []
+2017-11-12 11:27:39,795 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: source nodes = []
+2017-11-12 11:27:40,561 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.movedWinWidth = 5400000 (default=5400000)
+2017-11-12 11:27:40,561 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.moverThreads = 1000 (default=1000)
+2017-11-12 11:27:40,561 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.dispatcherThreads = 200 (default=200)
+2017-11-12 11:27:40,561 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.datanode.balance.max.concurrent.moves = 50 (default=50)
+2017-11-12 11:27:40,561 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.size = 2147483648 (default=2147483648)
+2017-11-12 11:27:40,561 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.getBlocks.min-block-size = 10485760 (default=10485760)
+2017-11-12 11:27:40,565 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.balancer.max-size-to-move = 10737418240 (default=10737418240)
+2017-11-12 11:27:40,565 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: dfs.blocksize = 134217728 (default=134217728)
+2017-11-12 11:27:40,573 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.133:50010
+2017-11-12 11:27:40,573 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.132:50010
+2017-11-12 11:27:40,573 INFO org.apache.hadoop.net.NetworkTopology: Adding a new node: /default-rack/192.168.252.134:50010
+2017-11-12 11:27:40,575 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 over-utilized: []
+2017-11-12 11:27:40,575 INFO org.apache.hadoop.hdfs.server.balancer.Balancer: 0 underutilized: []

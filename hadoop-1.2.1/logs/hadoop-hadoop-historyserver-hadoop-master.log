@@ -1,0 +1,17 @@
+2017-11-11 22:15:13,930 INFO org.apache.hadoop.mapred.JobHistoryServer: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting JobHistoryServer
+STARTUP_MSG:   host = hadoop-master/192.168.252.131
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 1.2.1
+STARTUP_MSG:   build = https://svn.apache.org/repos/asf/hadoop/common/branches/branch-1.2 -r 1503152; compiled by 'mattf' on Mon Jul 22 15:23:09 PDT 2013
+STARTUP_MSG:   java = 1.8.0_152
+************************************************************/
+2017-11-11 22:15:13,995 FATAL org.apache.hadoop.mapred.JobHistoryServer: java.lang.IllegalStateException: History server is configured to run within JobTracker. Aborting..
+	at org.apache.hadoop.mapred.JobHistoryServer.<init>(JobHistoryServer.java:90)
+	at org.apache.hadoop.mapred.JobHistoryServer.main(JobHistoryServer.java:223)
+
+2017-11-11 22:15:13,996 INFO org.apache.hadoop.mapred.JobHistoryServer: SHUTDOWN_MSG: 
+/************************************************************
+SHUTDOWN_MSG: Shutting down JobHistoryServer at hadoop-master/192.168.252.131
+************************************************************/
